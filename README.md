@@ -1,12 +1,18 @@
 # linux-libguide
-A "libguide" created for LIS 635, based on the kinds of resources I wished I had when I started learning Linux to learn about operating systems in my free time and in undergraduate computer science courses.
+A "libguide" (resource or research guide) created for LIS 635, based on the kinds of resources I wished I had when I started learning Linux to learn about operating systems in my free time and in undergraduate computer science courses.
 * * *
 ## General Information
-**ArchLinux Wiki ([wiki.archlinux.org](https://wiki.archlinux.org))**  
-Created by and for users of the Arch distribution of Linux specifically, this wiki is widely used by many enthusiast Linux users for detailed, up-to-date information on the operating system and much available software.
+**[Linux Journey](https://linuxjourney.com/)**  
+A comprehensive set of beginner-friendly tutorials covering using and understanding a variety of aspects of Linux.
 
 **[_Linux Bible_](https://www.wiley.com/en-us/Linux+Bible,+10th+Edition-p-9781119578888) by Christopher Negus**  
 A hands-on guide to using Linux that covers information applicable to total beginners all the way through advanced, system-administrator level topics. (Yes, it's very long.)
+
+**[UNIX and Linux System Administration Handbook](https://www.pearson.com/us/higher-education/program/Nemeth-UNIX-and-Linux-System-Administration-Handbook-5th-Edition/PGM143215.html?tab=contents) by Evi Nemeth et al.**  
+A definitive guide to almost every aspect of setting up and maintaining any Linux system. This is a book to use for reference, not suitable as a detailed tutorial.
+
+**ArchLinux Wiki ([wiki.archlinux.org](https://wiki.archlinux.org))**  
+Created by and for users of the Arch distribution of Linux specifically, this wiki is widely used by many enthusiast Linux users for detailed, up-to-date information on the operating system and much available software.
 
 ## Using the Command Line
 **[_The Linux Command Line_](https://linuxcommand.org/tlcl.php) by William Shotts**  
@@ -34,7 +40,7 @@ Tips for effectively searching for tech support information:
 ### Using Forums and Mailing Lists
 
 Where to find a place to ask for help:
-* The website for the Linux distribution or particular piece of software you are using may have a forum or mailing list.
+* The website or other community page for the Linux distribution or particular piece of software you are using likely has a forum or mailing list, or maybe even a chat via IRC or Discord.
 * **[StackExchange](https://stackexchange.com/)** is a network of question-and-answer sites suitable as a general forum for questions. Many are devoted to computers: [Unix & Linux](https://unix.stackexchange.com/), [SuperUser](https://superuser.com/) for general computing; [StackOverflow](https://stackoverflow.com/) for programming. Among the [list of all StackExchange sites](https://stackexchange.com/sites#) there are also several devoted to popular Linux distributions or pieces of software that run on Linux.
 * **Reddit** has subreddits devoted to Linux, including many specialized topics, distributions, and pieces of software. The **[/r/linux4noobs](https://www.reddit.com/r/linux4noobs/)** community accepts a range of Linux questions, and refers to many other relevant subreddits.
 
