@@ -3,7 +3,10 @@ A "libguide" created for LIS 635, based on the kinds of resources I wished I had
 * * *
 ## General Information
 **ArchLinux Wiki ([wiki.archlinux.org](https://wiki.archlinux.org))**  
-Created by and for users of the Arch distribution of Linux specifically, this wiki is widely recognized and used by many Linux users for detailed, up-to-date information on the operating system and much available software.
+Created by and for users of the Arch distribution of Linux specifically, this wiki is widely used by many enthusiast Linux users for detailed, up-to-date information on the operating system and much available software.
+
+**[_Linux Bible_](https://www.wiley.com/en-us/Linux+Bible,+10th+Edition-p-9781119578888) by Christopher Negus**  
+A hands-on guide to using Linux that covers information applicable to total beginners all the way through advanced, system-administrator level topics. (Yes, it's very long.)
 
 ## Using the Command Line
 **[_The Linux Command Line_](https://linuxcommand.org/tlcl.php) by William Shotts**  
@@ -11,6 +14,9 @@ Updated every few years and available for free as a PDF or for purchase in print
 
 **ExplainShell ([www.explainshell.com](https://www.explainshell.org))**  
 Search for commands--even complicated, multi-part ones--and this tool will parse the command and pull information from relevant manual pages to explain what each part of the command is doing. This is particularly helpful when general search engines (such as Google) ignore or misinterpret symbols and words (such as "-") that are often used in command line syntax.
+
+**[_Advanced Bash-Scripting Guide: an in-depth exploration of the art of shell scripting_](https://tldp.org/LDP/abs/html/index.html) by Mendel Cooper**  
+A detailed, beginner-to-advanced tutorial on shell (command line) script-writing that assumes no previous scripting or programming knowledge. 
 
 ## Troubleshooting and Asking for Help
 **["How to Ask Questions the Smart Way"](http://catb.org/~esr/faqs/smart-questions.html) by Eric S. Raymond** is a classic and detailed essay about searching and asking questions that reflects and informs computing communities' approach to providing support. However, it is not written sympathetically.
