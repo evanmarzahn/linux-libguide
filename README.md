@@ -1,4 +1,5 @@
 # linux-libguide
+A collection of links to comprehensive information for learning Linux, suitable for serious, even if just beginning, learners (e.g. students working with Linux for operating system-focused computer science courses). Many, but not all, are freely available.
 * * *
 ## General Information
 **[Linux Journey](https://linuxjourney.com/)**  
